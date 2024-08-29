@@ -23,7 +23,7 @@ const Projects = () => (
           <li>Built a real-time booking platform for vehicle maintenance services, focusing on user experience and reliability.</li>
           <li>Utilized the MERN stack to ensure scalability and responsiveness, resulting in a robust, full-stack application.</li>
         </ul>
-        <a href="https://github.com/LAKSHMIPATHI-PATHAGUNTA/E-Mechanice-Services" className="btn btn-primary">View Project</a>
+        <a href="https://github.com/LAKSHMIPATHI-PATHAGUNTA/E-Mechanic-Services" className="btn btn-primary">View Project</a>
       </div>
     </div>
   </section>
