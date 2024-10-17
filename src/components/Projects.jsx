@@ -23,7 +23,21 @@ const Projects = () => (
           <li>Built a real-time booking platform for vehicle maintenance services, focusing on user experience and reliability.</li>
           <li>Utilized the MERN stack to ensure scalability and responsiveness, resulting in a robust, full-stack application.</li>
         </ul>
-        <a href="https://github.com/LAKSHMIPATHI-PATHAGUNTA/E-Mechanice-Services" className="btn btn-primary">View Project</a>
+        <a href="https://github.com/LAKSHMIPATHI-PATHAGUNTA/E-Mechanic-Services" className="btn btn-primary">View Project</a>
+      </div>
+    </div>
+    <div className="card mt-3">
+      <div className="card-body">
+        <h5 className="card-title">Moive Ticket Booking Backend using Express js and Node js</h5>
+        <p className="card-text">Technologies used: MongoDB, Express.js, Node.js, React.js, HTML, CSS</p>
+        <ul>
+          <li>Handling logic for booking systems, such as prioritizing seat allocation in a coach and handling
+            real-time updates.</li>
+          <li>Persistent seat information stored in a MongoDB database.Managing seat availability in real-time.</li>
+          <li>The backend manages simultaneous seat reservation requests, ensuring that all users receive accurate
+          and up-to-date availability without conflicts</li>
+        </ul>
+        <a href="https://github.com/LAKSHMIPATHI-PATHAGUNTA/Movie-ticket-booking" className="btn btn-primary">View Project</a>
       </div>
     </div>
   </section>
