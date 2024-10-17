@@ -24,7 +24,6 @@ const Projects = () => (
           <li>Utilized the MERN stack to ensure scalability and responsiveness, resulting in a robust, full-stack application.</li>
         </ul>
         <a href="https://github.com/LAKSHMIPATHI-PATHAGUNTA/E-Mechanic-Services" className="btn btn-primary">View Project</a>
-<<<<<<< HEAD
       </div>
     </div>
     <div className="card mt-3">
@@ -39,8 +38,6 @@ const Projects = () => (
           and up-to-date availability without conflicts</li>
         </ul>
         <a href="https://github.com/LAKSHMIPATHI-PATHAGUNTA/Movie-ticket-booking" className="btn btn-primary">View Project</a>
-=======
->>>>>>> bbf73d59d78b78f0ab654023a3be7c849e9ff191
       </div>
     </div>
   </section>
