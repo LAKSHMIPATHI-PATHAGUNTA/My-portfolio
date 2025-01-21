@@ -7,7 +7,7 @@ const Certifications = () => (
         <li>Service Now Micro-Certification</li>
       <li>IIT KGP - Database Management Systems</li>
       <li>Udemy - Agile Methodologies Overview</li>
-      <li>IIT KANPUR- Foundations of R Software</li
+      <li>IIT KANPUR- Foundations of R Software</li>
     </ul>
   </div>
 );
