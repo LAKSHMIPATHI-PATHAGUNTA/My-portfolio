@@ -5,14 +5,12 @@ const Projects = () => (
     <h2>Projects</h2>
     <div className="card mt-3">
       <div className="card-body">
-        <h5 className="card-title">Data Analysis on Consumer E-commerce</h5>
-        <p className="card-text">Technologies used: Python, Pandas, Matplotlib, Seaborn, Scikit-learn</p>
+        <h5 className="card-title">Library Management System using SQL </h5>
         <ul>
-          <li>Performed comprehensive data cleaning and preprocessing to prepare large datasets for analysis.</li>
-          <li>Applied statistical methods and techniques to identify consumer purchasing patterns.</li>
-          <li>Developed visualizations to communicate insights effectively, aiding in data-driven decision-making.</li>
+          <li>This Library Management System project uses SQL for handling book records, user management, and transaction details.</li>
+          <li>s. It supports functionalities like adding, updating, and deleting books, issuing and returning books, and maintaining user data.</li>
         </ul>
-        <a href="https://github.com/LAKSHMIPATHI-PATHAGUNTA/Data-analysis-on-consumer-e-commerce" className="btn btn-primary">View Project</a>
+        <a href="https://github.com/LAKSHMIPATHI-PATHAGUNTA/library-management-system-using-sql" className="btn btn-primary">View Project</a>
       </div>
     </div>
     <div className="card mt-3">
@@ -20,24 +18,22 @@ const Projects = () => (
         <h5 className="card-title">E-Mechanic Services using MERN Stack</h5>
         <p className="card-text">Technologies used: MongoDB, Express.js, Node.js, React.js, HTML, CSS</p>
         <ul>
-          <li>Built a real-time booking platform for vehicle maintenance services, focusing on user experience and reliability.</li>
-          <li>Utilized the MERN stack to ensure scalability and responsiveness, resulting in a robust, full-stack application.</li>
+          <li>Worked on backend and front-end system which provides features like user registration and role-based access.</li>
+          <li>Developed APIs to manage service bookings and track appointments. Created functionalities to handle customer and service provider interactions.</li>
         </ul>
         <a href="https://github.com/LAKSHMIPATHI-PATHAGUNTA/E-Mechanic-Services" className="btn btn-primary">View Project</a>
       </div>
     </div>
     <div className="card mt-3">
       <div className="card-body">
-        <h5 className="card-title">Moive Ticket Booking Backend using Express js and Node js</h5>
-        <p className="card-text">Technologies used: MongoDB, Express.js, Node.js, React.js, HTML, CSS</p>
+        <h5 className="card-title">Food Image Classification Using CNN</h5>
+        <p className="card-text">Technologies used: Keras,Tensorflow</p>
         <ul>
-          <li>Handling logic for booking systems, such as prioritizing seat allocation in a coach and handling
-            real-time updates.</li>
-          <li>Persistent seat information stored in a MongoDB database.Managing seat availability in real-time.</li>
-          <li>The backend manages simultaneous seat reservation requests, ensuring that all users receive accurate
-          and up-to-date availability without conflicts</li>
+          <li>Constructed a deep learning framework using Convolutional Neural Networks (CNNs) for effective classification and identification 
+            tasks related to Indian cuisine with a large image dataset exceeding 25,000 images. </li>
+          <li>By ensuring quality of images in our dataset and by taking help of pythons rich library we obtained 88 percent accuracy using ResNet101</li>
         </ul>
-        <a href="https://github.com/LAKSHMIPATHI-PATHAGUNTA/Movie-ticket-booking" className="btn btn-primary">View Project</a>
+        <a href="https://github.com/LAKSHMIPATHI-PATHAGUNTA/Food-Recognition-using-Deep-Learning" className="btn btn-primary">View Project</a>
       </div>
     </div>
   </section>
