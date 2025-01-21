@@ -1,14 +1,16 @@
 import React from 'react';
 
-const About = () => (
+const Work_Experience = () => (
   <section id="about" className="container mt-5">
-    <h2>About Me</h2>
+    <h2>My work Experience</h2>
     <p>
-      I’m a BTech fresher with a strong interest in advanced technology and some experience in project development. 
-      I combine my academic knowledge with hands-on practice and am keen to learn new technologies. 
-      I’m eager to face new challenges, explore emerging tech, and am committed to excellence and continuous learning to push innovation forward.
+      Analyzed e-commerce data to understand consumer buying habits and trends. 
+      Cleaned and prepared the data by handling missing values and outliers.
+      Used statistical methods to find patterns in customer preferences and product sales. 
+      Created visualizations to clearly present the results.
+      Provided insights to improve marketing strategies and customer engagement.
     </p>
   </section>
 );
 
-export default About;
+export default Work_Experience;
