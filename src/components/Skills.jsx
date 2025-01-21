@@ -4,8 +4,9 @@ const Skills = () => (
   <div className="resume-section">
     <h4>Skills</h4>
     <ul>
-      <li>React.js, JavaScript, Express, MongoDB, MySQL, Git Bash, Data Analytics</li>
-      <li>Python, C++, Java, Data Structures and Algorithms</li>
+      <li>Programming Languages: JavaScript, Python, C++,R,java
+      <li>Data Structures & Algorithms,SQL</li>
+      <li>Development Tools: Git, VS Code</li>
     </ul>
   </div>
 );
